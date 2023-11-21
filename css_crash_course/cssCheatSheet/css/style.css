@@ -124,19 +124,19 @@ a:visited{
 	list-style-image: url('../images/check.png');
 }
 
-.my-form{
+#my-form{
 	padding:20px;
 }
 
-.my-form .form-group{
+#my-form .form-group{
 	padding-bottom: 15px;
 }
 
-.my-form label{
+#my-form label{
 	display:block;
 }
 
-.my-form input[type="text"], .my-form textarea{
+#my-form input[type="text"], #my-form textarea{
 	padding:8px;
 	width:100%;
 }
