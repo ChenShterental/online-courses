@@ -8,3 +8,8 @@
 
 # The java_script_crash_course is based on a youtube tutorial by Brad Traversy:
 # https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+# It it recommended to learn these courses by the following order:
+# 1. html
+# 2. css
+# 3. javaScript
